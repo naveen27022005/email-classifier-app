@@ -1,0 +1,11 @@
+# Temporary / training artifacts
+temp/
+bert_results/
+models/bert_results/
+models/*/checkpoint-*
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
