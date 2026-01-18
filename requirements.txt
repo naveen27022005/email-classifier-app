@@ -1,7 +1,5 @@
 streamlit
-torch
-transformers
+huggingface_hub
 scikit-learn
-pandas
-numpy
 joblib
+numpy

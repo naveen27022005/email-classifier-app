@@ -9,3 +9,8 @@ models/*/checkpoint-*
 
 # Python cache
 __pycache__/
+
+models/
+*.pkl
+*.bin
+*.safetensors
