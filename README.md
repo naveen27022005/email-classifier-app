@@ -5,3 +5,9 @@ This is a support repository which is used for deploying the machine learning mo
 The deployed application link is given as follows
 
 https://email-classifier-app-r51s.onrender.com
+
+---
+
+# Author
+
+Naveen E, Infosys Springboard Intern
